@@ -2,10 +2,6 @@
 <html>
 <head>
 
-<link rel="stylesheet"
-		href="web1.jpg" type="text/css">
-
- 
 
 
 <style>/* Stylesheet 3: */
