@@ -3,7 +3,7 @@
 <head>
 
 <link rel="stylesheet"
-		href="web1.css" type="text/css">
+		href="web1.jpg" type="text/css">
 
  
 
